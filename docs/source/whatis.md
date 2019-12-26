@@ -63,7 +63,7 @@ chain and even digital music delivery.
 
 Fabric is the first distributed ledger platform to support **smart contracts
 authored in general-purpose programming languages** such as Java, Go and
-Node.js, rather than constrained domain-specific languages (DSL). This means
+Javascript(using Node.js), rather than constrained domain-specific languages (DSL). This means
 that most enterprises already have the skill set needed to develop smart
 contracts, and no additional training to learn a new language or DSL is needed.
 
@@ -224,7 +224,7 @@ as inconsistent results can be filtered out before ordering.
 
 Because we have eliminated non-determinism, Fabric is the first blockchain
 technology that **enables use of standard programming languages**. In the 1.1.0
-release, smart contracts can be written in either Go or Node.js, while there are
+release, smart contracts can be written in either Go or Node.js(using Javascript), while there are
 plans to support other popular languages including Java in subsequent releases.
 
 ## Privacy and Confidentiality
